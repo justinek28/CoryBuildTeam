@@ -9,7 +9,7 @@ function submitForm() {
       message: {
         to: [
           {
-            email: "hello@justinehenderson.com"
+            email: "cory@goldenmeansolutions.com"
           }
         ],
         from_email: $('#email').val(),
